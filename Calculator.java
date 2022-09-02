@@ -14,6 +14,7 @@ public class Calculator {
 		System.out.println("Sub is: "+ sub);
 		System.out.println("mul is: "+ mul);
 		System.out.println("div is: "+ div);
+		//cloneTest
 
 
 
